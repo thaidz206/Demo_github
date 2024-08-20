@@ -1,0 +1,55 @@
+.header_menu {
+    background-color: #2659f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.header_menu .img_logo {
+    width: 200px;
+    height: auto;
+}
+
+.content_1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.head_row {
+    display: flex;
+    align-items: center;
+}
+
+.input-search {
+    width: 370px;
+    display: flex;
+}
+.form-control {
+    border-radius: 5px;
+    height: 43px;
+}
+
+.btn_search {
+    height: 43px;
+    width: 50px;
+    border: 1px solid white;
+    margin-left: -3px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.phone_1 {
+    margin-left: 2%;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.user_login1 {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* ------------------------------------------------------------------ */
